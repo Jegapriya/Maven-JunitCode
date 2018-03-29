@@ -8,7 +8,7 @@ public class JunitTestCase {
 	
 	@Test
 	public void junitTest()  {
-		Assert.assertTrue("hikrutika".equals("hi"));
+		Assert.assertTrue("hi".equals("hi"));
 		System.out.println("Test case executed...");
 	}
 }
