@@ -5,7 +5,7 @@
 	<groupId>cm.junit-maven.examples</groupId>
 	<artifactId>mvn-junit</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 
 	<name>mvn-junit</name>
 	<url>http://maven.apache.org</url>
