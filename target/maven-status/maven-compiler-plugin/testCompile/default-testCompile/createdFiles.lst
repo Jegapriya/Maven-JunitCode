@@ -1,1 +1,4 @@
+com/test/AppTest.class
 com/test/JunitTest.class
+com/test/JunitTestCase.class
+com/test/CalculatorTest.class

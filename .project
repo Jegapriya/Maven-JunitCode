@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>JunitDemo</name>
+=======
+	<name>mvn-junit</name>
+>>>>>>> 89d22d65572edf8bd562282d4f9632b70349b12a
 	<comment></comment>
 	<projects>
 	</projects>
